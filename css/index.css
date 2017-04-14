@@ -1,1 +1,15 @@
 @import url("base.css");
+#wrap {
+  font-family: "Centrale Sans Rounded Bold";
+}
+#wrap #header {
+  background: #03a9f4;
+  color: #fff;
+  padding: 12px 20px;
+}
+#wrap #header h1 {
+  font-size: 20px;
+}
+#wrap #main a {
+  display: block;
+}
